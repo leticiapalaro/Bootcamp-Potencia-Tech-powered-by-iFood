@@ -9,7 +9,7 @@ Olá, este repositório é destinado ao conteúdo do
 
 </div>
 
-### #1 Prepare-se para a Jornada
+# #1 Prepare-se para a Jornada
 
   - [x] Boas-vindas ao Potência Tech powered by iFood - Java Beginners
 
@@ -23,7 +23,7 @@ Olá, este repositório é destinado ao conteúdo do
   
   <br/>
   
-### #2 Princípios de Desenvolvimento de Software
+# #2 Princípios de Desenvolvimento de Software
 
   - [x] Introdução à Programação e Pensamento Computacional
 
@@ -35,7 +35,7 @@ Olá, este repositório é destinado ao conteúdo do
   
   <br/>
   
-### #3 Conhendo a Linguagem de Programção Java
+# #3 Conhendo a Linguagem de Programção Java
 
   - [ ] Introdução à Plataforma Java
 
