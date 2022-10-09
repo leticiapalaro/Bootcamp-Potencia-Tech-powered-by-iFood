@@ -1,10 +1,15 @@
-Olá, este repositório é destinado ao conteúdo do Bootcamp ***Potência Tech powered by iFood - Java Beginners***.
+<div align="center">
 
-Andamento do Processo:
+Olá, este repositório é destinado ao conteúdo do 
+<h1>Bootcamp Potência Tech powered by iFood - Java Beginners.</h1>
 
-<img height="300vh" align="left" src="Imagens/letscode.gif">
+<h3> Andamento do Processo:</h3>
 
-## [x] Prepare-se para a Jornada
+<img height="300vh" src="Imagens/letscode.gif">
+
+</div>
+
+### #1 Prepare-se para a Jornada
 
   - [x] Boas-vindas ao Potência Tech powered by iFood - Java Beginners
 
@@ -16,9 +21,9 @@ Andamento do Processo:
 
   - [x] **Potência Tech powered by iFood - Java Beginners | Aula Inaugural**
   
+  <br/>
   
-  
-## [x] Princípios de Desenvolvimento de Software
+### #2 Princípios de Desenvolvimento de Software
 
   - [x] Introdução à Programação e Pensamento Computacional
 
@@ -28,9 +33,9 @@ Andamento do Processo:
 
   - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
   
+  <br/>
   
-  
-- [ ] Conhendo a Linguagem de Programção Java
+### #3 Conhendo a Linguagem de Programção Java
 
   - [ ] Introdução à Plataforma Java
 
@@ -43,4 +48,3 @@ Andamento do Processo:
   - [ ] Estruturas de Repetição e Arrays em Java
   
   - [ ] Entendendo Métodos Java
-  
