@@ -1,7 +1,7 @@
 <div align="center">
 
 Olá, este repositório é destinado ao conteúdo do 
-<h1>Bootcamp Potência Tech powered by iFood - Java Beginners.</h1>
+<h1>Bootcamp Potência Tech powered by iFood <br/> Java Beginners.</h1>
 
 <h3> Andamento do Processo:</h3>
 
