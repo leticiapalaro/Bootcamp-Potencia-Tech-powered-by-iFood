@@ -52,3 +52,14 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
   - [ ] Estruturas de Repetição e Arrays em Java
   
   - [ ] Entendendo Métodos Java
+  
+<div align="center">
+
+### _#BootcampiFoodJavaTech_
+
+### _#ContratoDeCompromisso_
+
+  <img height="200vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/ok.gif?raw=true"><br><a href="https://www.linkedin.com/in/let%C3%ADcia-palaro-a870b0243/" target="_blank"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true" target="_blank"></a>
+  <a href = "mailto:leticiapalaro@live.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
+
+</div>
