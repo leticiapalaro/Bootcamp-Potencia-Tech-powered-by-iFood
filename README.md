@@ -39,20 +39,94 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
   <br/>
 
-# #3 Conhendo a Linguagem de Programção Java
+# #3 Conhendo a Linguagem de Programação Java
 
-  - [ ] Introdução à Plataforma Java
+  - [x] Introdução à Plataforma Java
 
-  - [ ] Ambiente de Desenvolvimento Java
+  - [x] Ambiente de Desenvolvimento Java
 
-  - [ ]  Aprendendo a Sintaxe Java
+  - [x]  Aprendendo a Sintaxe Java
 
   - [ ] Lógica Condicional e Controle de Fluxos em Java
   
   - [ ] Estruturas de Repetição e Arrays em Java
   
   - [ ] Entendendo Métodos Java
+
+ <br/>
+ 
+ # #4 Dominando Algoritmos Básicos com Desafios de Código Java
+
+  - [ ] Desafio: Os números são iguais?
+
+  - [ ] Desafio: Somando múltiplos
+
+  - [ ]  Desafio: Uma chamda recursiva
+
+  - [ ] Desafio: FizzBuzz
   
+  - [ ] Desafio: Busca Sequencial
+
+ <br/>
+ 
+ # #5 Programação Orientada a Objetos com Java
+
+  - [ ] Programação Orientada a Objetos
+
+  - [ ] Trabalhando com Colletions Java
+
+  - [ ]  Debugging Java
+
+  - [ ] Tratamento de Exceções em Java
+  
+  - [ ] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+
+ <br/>
+ 
+  # #6 Ganhando Produtividade com Spring Framework
+
+  - [ ] Principais Protocolos de Comunicação da Internet
+
+  - [ ] Gerenciamento de Dependências e Build em Java com Maven
+
+  - [ ]  Imersão no Spring Framework com Spring Boot
+
+  - [ ] Criando uma API REST Documentada com Spring Web e Swagger
+  
+  - [ ] Explorando Padrões de Projetos na Prática com Java
+  
+ <br/>
+ 
+   # #7 Dominando Algoritmos Intermediários com Desafios de Código Java
+
+  - [ ] Desafio: Checagem de Palíndromo
+
+  - [ ] Desafio: Validação de Parênteses
+
+  - [ ]  Desafio: Quadrados Perfeitos
+
+  - [ ] Desafio: Classificando Matrizes
+  
+  - [ ] Desafio: Fatorial Desajeitado
+  
+ <br/>
+
+   # #8 Fortalecendo sua Carreira Profissional
+
+  - [ ] Deixando Seu LinkedIn Atrativo
+
+  - [ ] Turbine Seu Currículo na DIO
+
+  - [ ] Trabalhando em Equipes Ágeis
+
+  - [ ] Transformando seu Conhecimento em Artigos Técnicos
+  
+  - [ ] Se Preparando Para Uma Entrevista
+  
+  - [ ] Convite para o Minha Carreira Tech | Potência Tech powered by iFood
+
+ <br/>
+ 
 <div align="center">
 
 ### _#BootcampiFoodJavaTech_
