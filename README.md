@@ -57,15 +57,15 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
  # #4 Dominando Algoritmos Básicos com Desafios de Código Java
 
-  - [x] Desafio: Os números são iguais?
+  - [x] [Desafio: Os números são iguais? Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/OsNumerosSaoIguais.java)
 
-  - [x] Desafio: Somando múltiplos
+  - [x] [Desafio: Somando múltiplos. Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/SomandoMultiplos.java)
 
-  - [x]  Desafio: Uma chamda recursiva
+  - [x]  [Desafio: Uma chamada recursiva. Clique aqui para acessar o Código](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/UmaChamadaRecursiva.java)
 
-  - [x] Desafio: FizzBuzz
+  - [x] [Desafio: FizzBuzz. Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/FizzBuzz.java)
   
-  - [x] Desafio: Busca Sequencial
+  - [x] [Desafio: Busca Sequencial. Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/BuscaSequencial.java)
 
  <br/>
 
