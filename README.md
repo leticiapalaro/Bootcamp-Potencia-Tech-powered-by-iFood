@@ -47,28 +47,28 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
   - [x]  Aprendendo a Sintaxe Java
 
-  - [ ] Lógica Condicional e Controle de Fluxos em Java
+  - [x] Lógica Condicional e Controle de Fluxos em Java
   
-  - [ ] Estruturas de Repetição e Arrays em Java
+  - [x] Estruturas de Repetição e Arrays em Java
   
-  - [ ] Entendendo Métodos Java
+  - [x] Entendendo Métodos Java
 
  <br/>
- 
+
  # #4 Dominando Algoritmos Básicos com Desafios de Código Java
 
-  - [ ] Desafio: Os números são iguais?
+  - [x] Desafio: Os números são iguais?
 
-  - [ ] Desafio: Somando múltiplos
+  - [x] Desafio: Somando múltiplos
 
-  - [ ]  Desafio: Uma chamda recursiva
+  - [x]  Desafio: Uma chamda recursiva
 
-  - [ ] Desafio: FizzBuzz
+  - [x] Desafio: FizzBuzz
   
-  - [ ] Desafio: Busca Sequencial
+  - [x] Desafio: Busca Sequencial
 
  <br/>
- 
+
  # #5 Programação Orientada a Objetos com Java
 
   - [ ] Programação Orientada a Objetos
@@ -82,7 +82,7 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
   - [ ] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
  <br/>
- 
+
   # #6 Ganhando Produtividade com Spring Framework
 
   - [ ] Principais Protocolos de Comunicação da Internet
@@ -94,9 +94,9 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
   - [ ] Criando uma API REST Documentada com Spring Web e Swagger
   
   - [ ] Explorando Padrões de Projetos na Prática com Java
-  
+
  <br/>
- 
+
    # #7 Dominando Algoritmos Intermediários com Desafios de Código Java
 
   - [ ] Desafio: Checagem de Palíndromo
@@ -108,7 +108,7 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
   - [ ] Desafio: Classificando Matrizes
   
   - [ ] Desafio: Fatorial Desajeitado
-  
+
  <br/>
 
    # #8 Fortalecendo sua Carreira Profissional
@@ -126,7 +126,7 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
   - [ ] Convite para o Minha Carreira Tech | Potência Tech powered by iFood
 
  <br/>
- 
+
 <div align="center">
 
 ### _#BootcampiFoodJavaTech_
