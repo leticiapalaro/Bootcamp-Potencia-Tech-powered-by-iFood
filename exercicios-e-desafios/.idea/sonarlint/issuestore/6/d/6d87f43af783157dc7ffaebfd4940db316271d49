@@ -1,15 +1,0 @@
-
-t	java:S127#"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÃÛŠ¸8ß¬ï‚¾0
-h	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ë€ìW8³Øï‚¾0
-7
-java:S1220""Move this file to a named package.8Öš™ÿ½0
-L
-java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8…®ï‚¾0
-C
-java:S1659"!Declare "aux" on a separate line.(ëûÒªıÿÿÿÿ8…®ï‚¾0
-]	java:S125"<This block of commented-out lines of code should be removed.(ƒÌ¸¾øÿÿÿÿ8ˆ®ï‚¾0
-X	java:S125"<This block of commented-out lines of code should be removed.(õÑßî8ˆ®ï‚¾0
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(ïŸí¹8‰®ï‚¾0
-C
-java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8¡Ùï‚¾0
