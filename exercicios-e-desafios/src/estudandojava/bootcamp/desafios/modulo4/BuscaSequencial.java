@@ -2,6 +2,7 @@ package estudandojava.bootcamp.desafios.modulo4;
 import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;
+import static java.lang.System.*;
 
 public class BuscaSequencial {
     public static void main(String[] args) {
@@ -20,16 +21,16 @@ public class BuscaSequencial {
 
         while(true) {
             //Criando o objeto scanner.
-            Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+            Scanner scanner = new Scanner(in).useLocale(Locale.US);
 
 
             // Tratamento de exceção caso o usuário insira algo diferente de um número inteiro.
             try {
-                System.out.println("Digite um número:");
+                out.println("Digite um número:");
                 numero = scanner.nextInt();
                 break;
             } catch (InputMismatchException e) {
-                System.out.println(
+                out.println(
                     "\nEntrada de dados inválida, entrada esperada: NÚMERO INTEIRO. " +
                     "Tente novamente."
                 );
@@ -49,6 +50,6 @@ public class BuscaSequencial {
             posicao = (elementos[i] == numero) ? "\nAchei " + numero + " na posição " + i +"!": posicao;
         }
 
-        System.out.println(posicao);
+        out.println(posicao);
     }
 }

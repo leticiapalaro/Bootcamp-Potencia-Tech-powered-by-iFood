@@ -2,6 +2,7 @@ package estudandojava.bootcamp.desafios.modulo4;
 import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;
+import static java.lang.System.*;
 
 public class UmaChamadaRecursiva {
     public static void main(String[] args) {
@@ -20,16 +21,16 @@ public class UmaChamadaRecursiva {
         while(true) {
 
             //Criando o objeto scanner.
-            Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+            Scanner scanner = new Scanner(in).useLocale(Locale.US);
 
 
             // Tratamento de exceção caso o usuário insira algo diferente de um número inteiro.
             try {
-                System.out.println("\nDigite um número:");
+                out.println("\nDigite um número:");
                 N = scanner.nextInt();
                 break;
             } catch (InputMismatchException e) {
-                System.out.println(
+                out.println(
                     "\nEntrada de dados inválida, entrada esperada: NÚMERO INTEIRO. " +
                     "Tente novamente."
                 );
@@ -43,6 +44,6 @@ public class UmaChamadaRecursiva {
             soma += i;
         }
 
-        System.out.println("\nA soma de todos os números de 1 até "+ N + " é: " + soma + ".");
+        out.println("\nA soma de todos os números de 1 até "+ N + " é: " + soma + ".");
     }
 }

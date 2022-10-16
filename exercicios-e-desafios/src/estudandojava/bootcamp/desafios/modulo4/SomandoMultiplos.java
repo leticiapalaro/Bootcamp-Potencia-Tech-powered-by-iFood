@@ -2,6 +2,7 @@ package estudandojava.bootcamp.desafios.modulo4;
 import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;
+import static java.lang.System.*;
 
 public class SomandoMultiplos {
 
@@ -21,19 +22,19 @@ public class SomandoMultiplos {
         while(true) {
 
             //Criando o objeto scanner.
-            Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+            Scanner scanner = new Scanner(in).useLocale(Locale.US);
 
 
             // Tratamento de exceção caso o usuário insira algo diferente de um número inteiro.
             try {
-                System.out.println("Digite o primeiro número:");
+                out.println("Digite o primeiro número:");
                 A = scanner.nextInt();
 
-                System.out.println("\nDigite o segundo número:");
+                out.println("\nDigite o segundo número:");
                 N = scanner.nextInt();
                 break;
             } catch (InputMismatchException e) {
-                System.out.println(
+                out.println(
                     "\nEntrada de dados inválida, entrada esperada: NÚMERO INTEIRO. " +
                     "Tente novamente."
                 );
@@ -44,10 +45,10 @@ public class SomandoMultiplos {
         // Estrutura de repetição FOR, irá verificar os múltiplos e realizar o somatório.
         for (int i = A; i <= N; i++){
             int restoDivisao = i % A;
-            if (restoDivisao == 0) { soma += i; }
+            if (restoDivisao == 0) soma += i;
         }
 
-        System.out.println(
+        out.println(
             "\nValor da soma de todos múltiplos de " + A + " encontrados entre " + A + " e " + N + ": "  + soma + "."
         );
     }
