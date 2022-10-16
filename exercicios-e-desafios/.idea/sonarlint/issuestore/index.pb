@@ -13,5 +13,3 @@ s
 Csrc/estudandojava/bootcamp/desafios/modulo4/OsNumerosSaoIguais.java,f\b\fbcfa1eae8c3a36ca2ea7951b5996223eeb1e5f0
 v
 Fsrc/estudandojava/bootcamp/desafios/modulo7/ValidacaoDeParenteses.java,8\1\81a206d6e61399cd91339bd2279aba16f4c1a7cb
-s
-Csrc/estudandojava/bootcamp/desafios/modulo7/QuadradosPerfeitos.java,9\e\9e01de0fd074054a79597910cbd585bddca3227a

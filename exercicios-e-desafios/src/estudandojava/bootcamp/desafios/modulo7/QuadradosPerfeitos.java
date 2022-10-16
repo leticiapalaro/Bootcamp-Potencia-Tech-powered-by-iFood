@@ -8,7 +8,6 @@ import static java.lang.System.out;
 public class QuadradosPerfeitos {
 
     /**
-     *
      * @param valor receberá um valor e irá calcular a Raiz Quadrada dele.
      * @return retorná um Boolean que indicará se o número é um Quadrado Perfeito.
      */
@@ -36,31 +35,36 @@ public class QuadradosPerfeitos {
 
 
         // Verificador de quadrados perfeitos:
-        for (int i = 1; i < entradaUsuario; i++){
-            if (verificaQuadradoPerfeito(i)) quadradosPerfeitos.add (0, i);
+        for (int i = 1; i < entradaUsuario; i++) {
+            if (verificaQuadradoPerfeito(i)) quadradosPerfeitos.add(0, i);
         }
-
 
         /*
          * Estrutura que, dentre os números encontratos e armazenados na Lista quadradosPerfeitos,
          * retorna o menor número de Quadrados Perfeitos necessários para efetuar uma soma
          * onde o resultado seja a entradaUsuario.
          */
-        int contador = 0;
-        for (Integer numero: quadradosPerfeitos) {
-            if ((entradaUsuario - numero) == 0) {
-                contador++;
-                break;
+
+        int sizeLista = quadradosPerfeitos.size();
+        int resultado = entradaUsuario;
+
+        for (int i = 0; i < sizeLista; i++) {
+
+            int varAuxiliar = entradaUsuario;
+            int contAuxiliar = 0;
+
+            for (int x = i; x < sizeLista; x++) {
+                while((varAuxiliar - quadradosPerfeitos.get(x)) >= 0){
+                    varAuxiliar -= quadradosPerfeitos.get(x);
+                    contAuxiliar ++;
+                }
             }
-            while ((entradaUsuario - numero) > 0) {
-                entradaUsuario -= numero;
-                contador++;
-            }
+
+            if (contAuxiliar < resultado) resultado = contAuxiliar;
         }
 
-
         // Resultado:
-        out.println("Resultado: "+ contador);
+        out.println(resultado);
 
     }
 }
