@@ -1,4 +1,4 @@
-package estudandojava.bootcamp.desafios.modulo4;
+package estudandojava.desafios.modulo4;
 import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;

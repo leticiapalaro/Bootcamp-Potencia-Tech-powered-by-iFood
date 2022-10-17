@@ -1,16 +1,12 @@
-package estudandojava.bootcamp.desafios.modulo4;
+package estudandojava.desafios.modulo4;
 import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;
 import static java.lang.System.*;
 
-public class UmaChamadaRecursiva {
+public class OsNumerosSaoIguais {
     public static void main(String[] args) {
-        //TODO: Imprima o somatório de N (utilize o método "somatorio").
-
-        int N = 0;
-        int soma = 0;
-
+        //TODO: Imprima se os valores numéricos passados são iguais ou não.
 
         /*
          * Estrutura de repetição WHILE:
@@ -26,8 +22,13 @@ public class UmaChamadaRecursiva {
 
             // Tratamento de exceção caso o usuário insira algo diferente de um número inteiro.
             try {
-                out.println("\nDigite um número:");
-                N = scanner.nextInt();
+                out.println("Digite o primeiro número:");
+                int A = scanner.nextInt();
+
+                out.println("\nDigite o segundo número:");
+                int B = scanner.nextInt();
+
+                out.println((A == B) ? "\nSão iguais!" : "\nNão são iguais!");
                 break;
             } catch (InputMismatchException e) {
                 out.println(
@@ -37,13 +38,5 @@ public class UmaChamadaRecursiva {
             }
 
         }
-
-
-        // Estrutura de repetição FOR que irá realizar o somatório.
-        for (int i = N; i > 0; i--){
-            soma += i;
-        }
-
-        out.println("\nA soma de todos os números de 1 até "+ N + " é: " + soma + ".");
     }
 }

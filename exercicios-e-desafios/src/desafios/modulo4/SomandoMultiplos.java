@@ -1,12 +1,17 @@
-package estudandojava.bootcamp.desafios.modulo4;
+package estudandojava.desafios.modulo4;
 import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;
 import static java.lang.System.*;
 
-public class OsNumerosSaoIguais {
+public class SomandoMultiplos {
+
     public static void main(String[] args) {
-        //TODO: Imprima se os valores numéricos passados são iguais ou não.
+        //TODO: Retorne o valor da soma de todos múltiplos de "A" até o seu limite "N".
+
+        int A = 0;
+        int N = 0;
+        int soma = 0;
 
         /*
          * Estrutura de repetição WHILE:
@@ -23,12 +28,10 @@ public class OsNumerosSaoIguais {
             // Tratamento de exceção caso o usuário insira algo diferente de um número inteiro.
             try {
                 out.println("Digite o primeiro número:");
-                int A = scanner.nextInt();
+                A = scanner.nextInt();
 
                 out.println("\nDigite o segundo número:");
-                int B = scanner.nextInt();
-
-                out.println((A == B) ? "\nSão iguais!" : "\nNão são iguais!");
+                N = scanner.nextInt();
                 break;
             } catch (InputMismatchException e) {
                 out.println(
@@ -38,5 +41,15 @@ public class OsNumerosSaoIguais {
             }
 
         }
+
+        // Estrutura de repetição FOR, irá verificar os múltiplos e realizar o somatório.
+        for (int i = A; i <= N; i++){
+            int restoDivisao = i % A;
+            if (restoDivisao == 0) soma += i;
+        }
+
+        out.println(
+            "\nValor da soma de todos múltiplos de " + A + " encontrados entre " + A + " e " + N + ": "  + soma + "."
+        );
     }
 }

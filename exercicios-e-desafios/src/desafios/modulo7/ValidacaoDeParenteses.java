@@ -1,4 +1,4 @@
-package estudandojava.bootcamp.desafios.modulo7;
+package estudandojava.desafios.modulo7;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
