@@ -105,7 +105,7 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
   - [x]  Desafio: Quadrados Perfeitos [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/QuadradosPerfeitos.java)
 
-  - [x] Desafio: Classificando Matrizes [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ClassificandoMatrizes.java)
+  - [x] Desafio: Classificando Matrizes [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ClassificandoMatrizes2.java)
   
   - [x] Desafio: Fatorial Desajeitado [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/FatorialDesajeitado.java)
 
