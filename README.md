@@ -57,6 +57,8 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
  # #4 Dominando Algoritmos Básicos com Desafios de Código Java
 
+### [Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/exercicios-e-desafios/src/desafios/modulo4)
+
   - [x] Desafio: Os números são iguais? [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo4/OsNumerosSaoIguais.java)
 
   - [x] Desafio: Somando múltiplos. [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo4/SomandoMultiplos.java)
@@ -98,6 +100,8 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
  <br/>
 
    # #7 Dominando Algoritmos Intermediários com Desafios de Código Java
+
+[Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/exercicios-e-desafios/src/desafios/modulo7)
 
   - [x] Desafio: Checagem de Palíndromo [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo7/ChecagemDePalindromo.java)
 
