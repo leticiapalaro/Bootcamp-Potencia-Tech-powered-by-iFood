@@ -22,15 +22,18 @@ public class ClassificandoMatrizes {
         // Organizando o array:
         LinkedHashSet<Integer> novoArray = new LinkedHashSet<>();
 
+
         // Colocando os números pares no ínicio:
         for (int num : nums) {
-            if (!novoArray.contains(num) && (num % 2) == 0) novoArray.add(num);
+            if ((num % 2) == 0) novoArray.add(num);
         }
+
 
         // Mantendo os números ímpares no final:
         for (int num : nums) {
-            if (!novoArray.contains(num) && (num % 2) != 0) novoArray.add(num);
+            if ((num % 2) != 0) novoArray.add(num);
         }
+
 
         // Resultado:
         for (int numero : novoArray) out.println(numero);
