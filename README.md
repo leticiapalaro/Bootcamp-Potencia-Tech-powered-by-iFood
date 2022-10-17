@@ -101,7 +101,7 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
    # #7 Dominando Algoritmos Intermediários com Desafios de Código Java
 
-[Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/exercicios-e-desafios/src/desafios/modulo7)
+### [Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/exercicios-e-desafios/src/desafios/modulo7)
 
   - [x] Desafio: Checagem de Palíndromo [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo7/ChecagemDePalindromo.java)
 

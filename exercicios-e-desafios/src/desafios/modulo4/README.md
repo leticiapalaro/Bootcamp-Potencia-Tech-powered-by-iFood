@@ -1,3 +1,7 @@
+# Entenda o Objetivo de cada Desafio:
+
+
+
 ##### Desafio: Busca Sequencial - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/BuscaSequencial.java)
 
 ## **Desafio**
@@ -37,6 +41,8 @@ A saída será a a posição do elemento no array, caso o valor não se encontre
 
 ------
 
+
+
 ##### Desafio: FizzBuzz - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/FizzBuzz.java)
 
 ## **Desafio**
@@ -64,6 +70,8 @@ Retorne a palavra correta de acordo com o seu múltiplo. Caso o valor não seja 
 
 ------
 
+
+
 ##### Desafio: Os números são iguais? - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/OsNumerosSaoIguais.java)
 
 ## **Desafio**
@@ -85,6 +93,8 @@ A saída deverá retornar a frase "Sao iguais!" caso A e B sejam o mesmo valor. 
 |         38 90          |   Nao sao iguais!    |
 
 ------
+
+
 
 ##### Desafio: Somando múltiplos - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/SomandoMultiplos.java)
 
@@ -113,6 +123,8 @@ A saída deverá retornar o valor da soma de todos os múltiplos A até o seu li
 |  3 18   |  63   |
 
 ------
+
+
 
 ##### Desafio: Uma chamada recursiva - [Clique aqui para acessar o Código](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/UmaChamadaRecursiva.java)
 

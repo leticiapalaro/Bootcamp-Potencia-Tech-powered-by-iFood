@@ -1,3 +1,7 @@
+# Entenda o Objetivo de cada Desafio:
+
+
+
 ##### Desafio: Checagem de Palíndromo -  [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ChecagemDePalindromo.java)
 
 ## **Desafio**
@@ -26,6 +30,8 @@ Para cada String informada, terá uma saída de valor Booleano: TRUE, caso a pal
 
 ------
 
+
+
 ##### Desafio: Classificando Matrizes - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ClassificandoMatrizes2.java)
 
 ## **Desafio**
@@ -50,6 +56,8 @@ A saída deverá retornar todos os valores pares para o começo do array, seguid
 | 4 3 1 2 4 | 2 4 3 1 |
 
 ------
+
+
 
 ##### Desafio: Fatorial Desajeitado - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/FatorialDesajeitado.java)
 
@@ -83,6 +91,8 @@ Explicação: 12 = 10 * 9 / 8 + 7 - 6 * 5 / 4 + 3 - 2 * 1
 
 ------
 
+
+
 ##### Desafio: Quadrados Perfeitos - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/QuadradosPerfeitos.java)
 
 ## **Desafio** 
@@ -106,6 +116,8 @@ A saída consiste em retornar o menor número de números quadrados perfeitos.
 |         10         |        2         |
 
 ------
+
+
 
 ##### Desafio: Validação de Parênteses - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ValidacaoDeParenteses.java)
 
