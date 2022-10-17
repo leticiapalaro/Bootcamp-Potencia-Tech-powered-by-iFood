@@ -71,9 +71,9 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
  # #5 Programação Orientada a Objetos com Java
 
-  - [ ] Programação Orientada a Objetos
+  - [x] Programação Orientada a Objetos
 
-  - [ ] Trabalhando com Colletions Java
+  - [x] Trabalhando com Colletions Java
 
   - [ ]  Debugging Java
 
@@ -99,15 +99,15 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
    # #7 Dominando Algoritmos Intermediários com Desafios de Código Java
 
-  - [ ] Desafio: Checagem de Palíndromo
+  - [x] Desafio: Checagem de Palíndromo [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ChecagemDePalindromo.java)
 
-  - [ ] Desafio: Validação de Parênteses
+  - [x] Desafio: Validação de Parênteses [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ValidacaoDeParenteses.java)
 
-  - [ ]  Desafio: Quadrados Perfeitos
+  - [x]  Desafio: Quadrados Perfeitos [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/QuadradosPerfeitos.java)
 
-  - [ ] Desafio: Classificando Matrizes
+  - [x] Desafio: Classificando Matrizes [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ClassificandoMatrizes.java)
   
-  - [ ] Desafio: Fatorial Desajeitado
+  - [x] Desafio: Fatorial Desajeitado [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/FatorialDesajeitado.java)
 
  <br/>
 
