@@ -126,7 +126,7 @@ A saída deverá retornar o valor da soma de todos os múltiplos A até o seu li
 
 
 
-##### Desafio: Uma chamada recursiva - [Clique aqui para acessar o Código](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/UmaChamadaRecursiva.java)
+##### Desafio: Uma chamada recursiva - [Clique aqui para acessar o Código](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/desafios-de-codigo/modulo-4-desafios-basicos/UmaChamadaRecursiva.java)
 
 ## **Descrição**
 
