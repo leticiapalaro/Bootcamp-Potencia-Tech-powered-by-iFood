@@ -93,7 +93,7 @@ Explicação: 12 = 10 * 9 / 8 + 7 - 6 * 5 / 4 + 3 - 2 * 1
 
 
 
-##### Desafio: Quadrados Perfeitos - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/QuadradosPerfeitos.java)
+##### Desafio: Quadrados Perfeitos - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/desafios-de-codigo/modulo-7-desafios-intermediarios/QuadradosPerfeitos.java)
 
 ## **Desafio** 
 
@@ -119,7 +119,7 @@ A saída consiste em retornar o menor número de números quadrados perfeitos.
 
 
 
-##### Desafio: Validação de Parênteses - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios.java)
+##### Desafio: Validação de Parênteses - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/desafios-de-codigo/modulo-7-desafios-intermediarios/ValidacaoDeParenteses.java)
 
 ## **Desafio**
 
