@@ -2,7 +2,7 @@
 
 
 
-##### Desafio: Busca Sequencial - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/BuscaSequencial.java)
+##### Desafio: Busca Sequencial - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/BuscaSequencial.java)
 
 ## **Desafio**
 
@@ -43,7 +43,7 @@ A saída será a a posição do elemento no array, caso o valor não se encontre
 
 
 
-##### Desafio: FizzBuzz - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/FizzBuzz.java)
+##### Desafio: FizzBuzz - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/FizzBuzz.java)
 
 ## **Desafio**
 
@@ -72,7 +72,7 @@ Retorne a palavra correta de acordo com o seu múltiplo. Caso o valor não seja 
 
 
 
-##### Desafio: Os números são iguais? - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/OsNumerosSaoIguais.java)
+##### Desafio: Os números são iguais? - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/OsNumerosSaoIguais.java)
 
 ## **Desafio**
 
@@ -96,7 +96,7 @@ A saída deverá retornar a frase "Sao iguais!" caso A e B sejam o mesmo valor. 
 
 
 
-##### Desafio: Somando múltiplos - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo4/SomandoMultiplos.java)
+##### Desafio: Somando múltiplos - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/SomandoMultiplos.java)
 
 ## **Desafio**
 

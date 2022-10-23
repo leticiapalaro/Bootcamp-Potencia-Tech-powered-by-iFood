@@ -57,17 +57,17 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
  # #4 Dominando Algoritmos Básicos com Desafios de Código Java
 
-### [Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/exercicios-e-desafios/src/desafios/modulo4)
+### [Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos)
 
-  - [x] Desafio: Os números são iguais? [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo4/OsNumerosSaoIguais.java)
+  - [x] Desafio: Os números são iguais? [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/OsNumerosSaoIguais.java)
 
-  - [x] Desafio: Somando múltiplos. [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo4/SomandoMultiplos.java)
+  - [x] Desafio: Somando múltiplos. [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/SomandoMultiplos.java)
 
-  - [x]  Desafio: Uma chamada recursiva. [Clique aqui para acessar o Código](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo4/UmaChamadaRecursiva.java)
+  - [x]  Desafio: Uma chamada recursiva. [Clique aqui para acessar o Código](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/UmaChamadaRecursiva.java)
 
-  - [x] Desafio: FizzBuzz. [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo4/FizzBuzz.java)
+  - [x] Desafio: FizzBuzz. [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/FizzBuzz.java)
   
-  - [x] Desafio: Busca Sequencial. [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo4/BuscaSequencial.java)
+  - [x] Desafio: Busca Sequencial. [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/BuscaSequencial.java)
 
  <br/>
 
@@ -77,9 +77,9 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
   - [x] Trabalhando com Colletions Java
 
-  - [ ]  Debugging Java
+  - [x]  Debugging Java
 
-  - [ ] Tratamento de Exceções em Java
+  - [x] Tratamento de Exceções em Java
   
   - [ ] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
@@ -101,17 +101,17 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
    # #7 Dominando Algoritmos Intermediários com Desafios de Código Java
 
-### [Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/exercicios-e-desafios/src/desafios/modulo7)
+### [Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios)
 
-  - [x] Desafio: Checagem de Palíndromo [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo7/ChecagemDePalindromo.java)
+  - [x] Desafio: Checagem de Palíndromo [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/ChecagemDePalindromo.java)
 
-  - [x] Desafio: Validação de Parênteses [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo7/ValidacaoDeParenteses.java)
+  - [x] Desafio: Validação de Parênteses [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/ValidacaoDeParenteses.java)
 
-  - [x]  Desafio: Quadrados Perfeitos [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo7/QuadradosPerfeitos.java)
+  - [x]  Desafio: Quadrados Perfeitos [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/QuadradosPerfeitos.java)
 
-  - [x] Desafio: Classificando Matrizes [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo7/ClassificandoMatrizes2.java)
+  - [x] Desafio: Classificando Matrizes [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/ClassificandoMatrizes1.java)
   
-  - [x] Desafio: Fatorial Desajeitado [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/desafios/modulo7/FatorialDesajeitado.java)
+  - [x] Desafio: Fatorial Desajeitado [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/FatorialDesajeitado.java)
 
  <br/>
 

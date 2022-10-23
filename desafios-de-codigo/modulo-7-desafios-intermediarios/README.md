@@ -2,7 +2,7 @@
 
 
 
-##### Desafio: Checagem de Palíndromo -  [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ChecagemDePalindromo.java)
+##### Desafio: Checagem de Palíndromo -  [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios.java)
 
 ## **Desafio**
 
@@ -32,7 +32,7 @@ Para cada String informada, terá uma saída de valor Booleano: TRUE, caso a pal
 
 
 
-##### Desafio: Classificando Matrizes - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ClassificandoMatrizes2.java)
+##### Desafio: Classificando Matrizes - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/ClassificandoMatrizes1.java)
 
 ## **Desafio**
 
@@ -59,7 +59,7 @@ A saída deverá retornar todos os valores pares para o começo do array, seguid
 
 
 
-##### Desafio: Fatorial Desajeitado - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/FatorialDesajeitado.java)
+##### Desafio: Fatorial Desajeitado - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/FatorialDesajeitado.java)
 
 ## **Desafio**
 
@@ -119,7 +119,7 @@ A saída consiste em retornar o menor número de números quadrados perfeitos.
 
 
 
-##### Desafio: Validação de Parênteses - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/exercicios-e-desafios/src/estudandojava/bootcamp/desafios/modulo7/ValidacaoDeParenteses.java)
+##### Desafio: Validação de Parênteses - [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios.java)
 
 ## **Desafio**
 
