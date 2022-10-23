@@ -3,7 +3,7 @@ import java.util.LinkedHashSet;
 import java.util.Scanner;
 import static java.lang.System.out;
 
-public class ClassificandoMatrizes {
+public class ClassificandoMatrizes3 {
     public static void main(String args[]) {
 
         //TODO: mova todos os inteiros pares para o inicio do array, seguido por todos os números ímpares
@@ -24,15 +24,11 @@ public class ClassificandoMatrizes {
 
 
         // Colocando os números pares no ínicio:
-        for (int num : nums) {
-            if ((num % 2) == 0) novoArray.add(num);
-        }
+        for (int num : nums) if ((num % 2) == 0) novoArray.add(num);
 
 
         // Mantendo os números ímpares no final:
-        for (int num : nums) {
-            if ((num % 2) != 0) novoArray.add(num);
-        }
+        for (int num : nums) if ((num % 2) != 0) novoArray.add(num);
 
 
         // Resultado:

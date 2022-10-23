@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.Scanner;
 import static java.lang.System.*;
 
-public class ClassificandoMatrizes2 {
+public class ClassificandoMatrizes1 {
 
     public static void main(String args[]) {
 

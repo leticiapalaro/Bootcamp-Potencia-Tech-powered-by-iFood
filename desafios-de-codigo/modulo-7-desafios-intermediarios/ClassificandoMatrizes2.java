@@ -4,7 +4,7 @@ import java.util.LinkedHashSet;
 import java.util.Scanner;
 import static java.lang.System.out;
 
-public class ClassificandoMatrizes3 {
+public class ClassificandoMatrizes2 {
     public static void main(String args[]) {
 
         // Criando o objeto scanner:
