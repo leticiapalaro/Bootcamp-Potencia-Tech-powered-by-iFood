@@ -2,7 +2,7 @@
 
 
 
-##### Desafio: Checagem de Palíndromo -  [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios.java)
+##### Desafio: Checagem de Palíndromo -  [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/blob/main/desafios-de-codigo/modulo-7-desafios-intermediarios/ChecagemDePalindromo.java)
 
 ## **Desafio**
 
