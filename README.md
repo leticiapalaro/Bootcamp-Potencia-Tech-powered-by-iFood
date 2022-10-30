@@ -81,7 +81,7 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
   - [x] Tratamento de Exceções em Java
   
-  - [ ] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+  - [x] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
  <br/>
 
