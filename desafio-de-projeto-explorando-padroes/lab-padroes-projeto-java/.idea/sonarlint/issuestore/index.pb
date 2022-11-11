@@ -1,0 +1,25 @@
+
+j
+:src/one/digitalinnovation/gof/singleton/SingletonLazy.java,9\e\9e8c4865a32ded18d2f5a6babdbfe68d7a0a466a
+p
+@src/one/digitalinnovation/gof/singleton/SingletonLazyHolder.java,a\9\a99b21eb1bd0cda59bd635c7713f54fe18ba59bf
+i
+9src/one/digitalinnovation/gof/strategy/Comportamento.java,3\4\34c27726dc4a5a847d1de391ab7c387794eab165
+o
+?src/one/digitalinnovation/gof/strategy/ComportamentoNormal.java,c\6\c69ab2b1a2870acf5f629cbf3e62779082070edb
+r
+Bsrc/one/digitalinnovation/gof/strategy/ComportamentoDefensivo.java,6\3\63799efeea3c939b1cdb1bbf77831fb5cfea05ea
+r
+Bsrc/one/digitalinnovation/gof/strategy/ComportamentoAgressivo.java,c\9\c9d7779d29dd4a6f48051d690e8a5a47fac4c015
+`
+0src/one/digitalinnovation/gof/strategy/Robo.java,9\f\9f73d961ddae5d790d9ab92abde6773538dbaead
+k
+;src/one/digitalinnovation/gof/singleton/SingletonEager.java,9\e\9ef4265540c65023ab3f8694603dc73c34e72ab1
+O
+src/subsistema2/cep/CepApi.java,8\5\8584dd86f6a33a4ea16b9056e914788ece391f3e
+S
+#src/subsistema1/crm/CrmService.java,7\6\76511a1a354d25d12065d1c55ebfe2dff3c371d4
+`
+0src/one/digitalinnovation/gof/facade/Facade.java,0\1\01fda00ecc88d188291c02b040348d30740835dd
+X
+(src/one/digitalinnovation/gof/Teste.java,b\e\be2fd7f66719c6516defaa4e8d92fab72f541c18

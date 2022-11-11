@@ -10,23 +10,17 @@ public class ClassificandoMatrizes1 {
 
         //TODO: mova todos os inteiros pares para o inicio do array, seguido por todos os números ímpares
 
-
         // Criando o objeto scanner:
-        Scanner input = new Scanner(in);
+        Scanner scanner = new Scanner(in);
 
-
-        int tamanhoArray = input.nextInt();
+        out.println("Digite o tamanho do Array:");
+        int tamanhoArray = scanner.nextInt();
         int [] nums = new int[tamanhoArray];
         int primeiroDoIndex = 0;
 
-
+        out.println("Digite os números do Array: ");
         // Gerando o array inicial:
-        for (int i = 0; i < tamanhoArray; i++) nums[i] = input.nextInt();
-
-
-        // Lista que irá armazenar os números, sem repetição de itens, com pares no inicio:
-        LinkedHashSet<Integer> listaFinal = new LinkedHashSet<>();
-
+        for (int i = 0; i < tamanhoArray; i++) nums[i] = scanner.nextInt();
 
         // Estrutura de Repetição que ordena o array:
         for(int i = 0; i < tamanhoArray; i++) {
@@ -38,13 +32,8 @@ public class ClassificandoMatrizes1 {
             }
         }
 
-
-        // Colocando em um LinkedHashSet, assim elimina os números repetidos:
-        for(int numero : nums) listaFinal.add(numero);
-
-
         // Resultado:
-        for(int numero : listaFinal) out.println(numero);
+        for(int numero : nums) out.println(numero);
     }
 }
 
