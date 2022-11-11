@@ -87,15 +87,15 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
   # #6 Ganhando Produtividade com Spring Framework
 
-  - [ ] Principais Protocolos de Comunicação da Internet
+  - [x] Principais Protocolos de Comunicação da Internet
 
-  - [ ] Gerenciamento de Dependências e Build em Java com Maven
+  - [x] Gerenciamento de Dependências e Build em Java com Maven
 
-  - [ ]  Imersão no Spring Framework com Spring Boot
+  - [x]  Imersão no Spring Framework com Spring Boot
 
-  - [ ] Criando uma API REST Documentada com Spring Web e Swagger
+  - [x] Criando uma API REST Documentada com Spring Web e Swagger
   
-  - [ ] Explorando Padrões de Projetos na Prática com Java
+  - [x] Explorando Padrões de Projetos na Prática com Java
 
  <br/>
 
@@ -117,17 +117,17 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
    # #8 Fortalecendo sua Carreira Profissional
 
-  - [ ] Deixando Seu LinkedIn Atrativo
+  - [x] Deixando Seu LinkedIn Atrativo
 
-  - [ ] Turbine Seu Currículo na DIO
+  - [x] Turbine Seu Currículo na DIO
 
-  - [ ] Trabalhando em Equipes Ágeis
+  - [x] Trabalhando em Equipes Ágeis
 
-  - [ ] Transformando seu Conhecimento em Artigos Técnicos
+  - [x] Transformando seu Conhecimento em Artigos Técnicos
   
-  - [ ] Se Preparando Para Uma Entrevista
+  - [x] Se Preparando Para Uma Entrevista
   
-  - [ ] Convite para o Minha Carreira Tech | Potência Tech powered by iFood
+  - [x] Convite para o Minha Carreira Tech | Potência Tech powered by iFood
 
  <br/>
 
