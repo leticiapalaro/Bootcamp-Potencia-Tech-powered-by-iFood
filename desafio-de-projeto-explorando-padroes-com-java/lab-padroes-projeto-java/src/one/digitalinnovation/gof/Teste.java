@@ -6,7 +6,7 @@ import one.digitalinnovation.gof.singleton.SingletonLazyHolder;
 
 import static java.lang.System.out;
 
-public class Testes {
+public class Teste {
 
     public static void main(String[] args) {
 
@@ -22,4 +22,5 @@ public class Testes {
         out.println(lazyHolder);
 
     }
+
 }
