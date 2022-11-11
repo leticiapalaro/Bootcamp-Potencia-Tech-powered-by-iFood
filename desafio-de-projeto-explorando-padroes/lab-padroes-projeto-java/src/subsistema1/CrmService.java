@@ -10,9 +10,9 @@ public class CrmService {
 
     public static void gravarCliente(String nome, String cep, String cidade, String estado) {
         out.println("Cliente salvo no sistema de CRM:");
-        out.println(nome);
-        out.println(cep);
-        out.println(cidade);
-        out.println(estado);
+        out.println("Nome: "+ nome);
+        out.println("CEP: "+ cep);
+        out.println("Cidade: "+ cidade);
+        out.println("Estado: "+ estado);
     }
 }
